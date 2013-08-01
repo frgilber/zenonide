@@ -1,0 +1,171 @@
+#  Copyright 1997 INRIA
+#  $Id: .config_var.in,v 1.24 2010-05-06 14:21:01 weis Exp $
+
+#
+# (0) The project identity card.
+#
+
+PROJECT_NAME="zenon"
+PROJECT_NAME_TEXT="Zenon"
+
+PROJECT_WEB_SERVER="modulogic.inria.fr"
+PROJECT_WEB_SITE_DIR="/home/www/zenon"
+
+PROJECT_FIRST_YEAR=1997
+
+VERSION_NUMBER_MAIN=0
+VERSION_NUMBER_SUB=7
+VERSION_NUMBER_PATCH=1
+VERSION_NUMBER_FULL="0.7.1"
+
+PROJECT_NAME_FULL="zenon-0.7.1"
+
+PROJECT_ARCHIVE_NAME="zenon-0.7.1.tgz"
+
+TOOLS_EXTERNAL=""
+TOOLS_INTERNAL=""
+DELIVERABLES="zenon"
+
+PROJECT_MAN_EXT=1
+
+CONFIGURE_WITH_MAKE=false
+
+DEBUG=true
+
+#
+# (1) The project directories.
+#
+
+# (1.0) The project sources directory.
+ABSOLUTE_ROOT_DIR="/home/gilbert/Documents/INRIA/zenonide"
+
+# (1.1) The project installation directories
+# (i.e. where the project installs its deliverables,
+# that is its own specific binaries and libraries).
+
+PREFIX="/usr/local"
+BIN_DIR="/usr/local/bin"
+LIB_DIR="/usr/local/lib"
+DOC_DIR="/usr/local/doc"
+MAN_DIR="/usr/local/man/man1"
+
+# (1.2) The directories where the project installs its internal tools and its own
+# specific versions of mandatory external tools binaries and libraries (if
+# any).
+
+STATIC_EXTERNAL=false
+TOOLS_PREFIX="/usr/local"
+TOOLS_PROJECT_DIR="/usr/local"
+TOOLS_PROJECT_BIN_DIR="/usr/local/bin"
+TOOLS_PROJECT_LIB_DIR="/usr/local/lib"
+TOOLS_PROJECT_MAN_DIR="/usr/local/man"
+TOOLS_PROJECT_DOC_DIR="/usr/local/doc"
+
+#
+# (2) The external tools settings.
+#
+
+# (2.0) Caml tools settings.
+CAML_NAME="ocaml"
+CAML_PREFIX="/usr/local"
+CAML_BIN_DIR="/usr/local/bin"
+CAML_LIB_DIR="/usr/local/lib/ocaml"
+CAML_BYT_COMPILER="ocamlc"
+CAML_BIN_COMPILER="ocamlopt"
+CAML_LEX_COMPILER="ocamllex"
+CAML_YAC_COMPILER="ocamlyacc"
+CAML_DEP_COMPILER="ocamldep"
+CAML_DOC_COMPILER="ocamldoc"
+# Compilation flags for Caml.
+BYT_DEBUG_FLAGS=""
+BIN_DEBUG_FLAGS=""
+
+# (2.1) Camlp5 settings.
+CAMLP5_LIB_DIR="/usr/local/lib/ocaml/camlp5"
+
+# (2.2) Coq settings.
+COQ_NAME="coq"
+COQ_PREFIX="/usr/local"
+COQ_LIB_DIR="/usr/local/lib/coq"
+COQ_CAML_DIR="/usr/local/bin"
+COQ_RC="/home/gilbert/.coqrc"
+COQ_COMPILER="coqc"
+COQ_DEP_COMPILER="coqdep"
+COQ_MAKE="make"
+
+#
+# (3) The internal tools settings.
+#
+
+# (3.0) Zenon settings.
+ZENON_NAME="zenon"
+ZENON_PREFIX="/usr/local"
+ZENON_LIB_DIR="/usr/local/lib/zenon"
+ZENON_COMPILER="/usr/local/bin/zenon"
+USE_COQ_COMPILER=true
+
+# (3.1) Zvtov settings.
+ZVTOV_NAME="zvtov"
+ZVTOV_PREFIX="/usr/local"
+ZVTOV_LIB_DIR="/usr/local/lib/zvtov"
+ZVTOV_COMPILER="/usr/local/bin/zvtov"
+USE_XMLRPC=false
+XMLRPC_FLAGS=""
+XMLRPC_LINK=""
+XMLRPC_MODULE=""
+
+#
+# (4) The project deliverables settings.
+#
+
+STATIC_DELIVERABLES=true
+
+# (4.0) Focalizec settings.
+FOCALIZEC_NAME=""
+FOCALIZEC_NAME_FULL=""
+FOCALIZEC_PREFIX="/usr/local"
+FOCALIZEC_LIB_DIR="/usr/local/lib/"
+FOCALIZEC_COMPILER="/usr/local/bin/"
+
+# (4.1) Focalizedep settings.
+FOCALIZEDEP_NAME=""
+FOCALIZEDEP_NAME_FULL=""
+FOCALIZEDEP_PREFIX="/usr/local"
+FOCALIZEDEP_LIB_DIR="/usr/local/lib/"
+FOCALIZEDEP_COMPILER="/usr/local/bin/"
+
+#
+# (5) The completely external commands and tools
+#
+# (not installed with the project).
+#
+
+# (5.0) External tools for zenon
+SUM="sum"
+CONVERT="convert"
+GS="gs"
+DVIPDF="dvipdfm"
+
+# (5.1) External tools for zvtov
+XMLRPC=":"
+
+#
+# (6) Command aliases for this tool compilation and installation.
+#
+
+# (Suppose that the tool at hand has already been equiped with a Makefile
+# machinery; suppose, as is highly probable, that this machinery uses other
+# Makefile names for tools or notions that are defined here; then, instead of
+# modifying the existing Makefiles of the tool, we simply define here a
+# compatibility layer to define the tool Makefile own names as synonyms for
+# the equivalent notions defined here.)
+
+# Aliases for this tool.
+CAMLBYT=ocamlc
+CAMLBIN=ocamlopt
+CAMLLEX=ocamllex
+CAMLYACC=ocamlyacc
+CAMLDEP=ocamldep
+CAMLDOC=ocamldoc
+COQC=coqc
+COQDEP=coqdep

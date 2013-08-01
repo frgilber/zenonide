@@ -1,0 +1,9 @@
+*.vo
+*.glob
+*.byt
+*.bin
+*.cm*
+*.o
+*.output
+test/
+test*

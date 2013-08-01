@@ -1,0 +1,14 @@
+#!/bin/bash
+for x in ../FOF/SYN*.p 
+do 
+    echo -n "proving"; echo $x;
+    cp $x test0.p;
+    if ./limit.py ./zenon -q -p0 -odedukti -itptp test0.p > test0.dk; 
+    then 
+	if ./limit.py camelide -v 0 test0.dk
+	then echo "OK";
+	else echo "dedukti fail";
+	fi
+    else echo "zenon fail";
+    fi
+done 

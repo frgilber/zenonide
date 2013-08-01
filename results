@@ -1,0 +1,2041 @@
+proving../FOF/SYN000+1.p
+Zenon error: file Axioms/SYN000+0.ax not found in include path
+zenon fail
+proving../FOF/SYN001+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN007+1.014.p
+./script.sh : ligne 2 :  4139 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN036+1.p
+./script.sh : ligne 2 :  4149 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN036+2.p
+./script.sh : ligne 2 :  4151 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN040+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN041+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN044+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN045+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN046+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN047+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN048+1.p
+Zenon error: uncaught exception File "lltolj.ml", line 262, characters 4-10: Assertion failed
+zenon fail
+proving../FOF/SYN049+1.p
+Zenon error: uncaught exception File "lltolj.ml", line 262, characters 4-10: Assertion failed
+zenon fail
+proving../FOF/SYN050+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN051+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN052+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN053+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN054+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN055+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN056+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN057+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN058+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN059+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN060+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN061+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN062+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN063+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN064+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN065+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN066+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN067+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN068+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN069+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN070+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN071+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN072+1.p
+Zenon error: exhausted search space without finding a proof
+zenon fail
+proving../FOF/SYN073+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN074+1.p
+Zenon error: exhausted search space without finding a proof
+zenon fail
+proving../FOF/SYN075+1.p
+Zenon error: exhausted search space without finding a proof
+zenon fail
+proving../FOF/SYN076+1.p
+Zenon error: exhausted search space without finding a proof
+zenon fail
+proving../FOF/SYN077+1.p
+./script.sh : ligne 2 :  4264 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN078+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN079+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN080+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN081+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN082+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN083+1.p
+./script.sh : ligne 2 :  4281 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN084+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN315+1.p
+Zenon error: uncaught exception File "lltolj.ml", line 262, characters 4-10: Assertion failed
+zenon fail
+proving../FOF/SYN317+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN318+1.p
+Zenon error: uncaught exception File "lltolj.ml", line 262, characters 4-10: Assertion failed
+zenon fail
+proving../FOF/SYN319+1.p
+./script.sh : ligne 2 :  4296 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN321+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN323+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN325+1.p
+Zenon error: uncaught exception File "lltolj.ml", line 262, characters 4-10: Assertion failed
+zenon fail
+proving../FOF/SYN326+1.p
+./script.sh : ligne 2 :  4306 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN327+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN328+1.p
+./script.sh : ligne 2 :  4311 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN331+1.p
+./script.sh : ligne 2 :  4317 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN332+1.p
+./script.sh : ligne 2 :  4320 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN333+1.p
+./script.sh : ligne 2 :  4325 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN334+1.p
+Zenon error: uncaught exception File "lltolj.ml", line 262, characters 4-10: Assertion failed
+zenon fail
+proving../FOF/SYN336+1.p
+Zenon error: uncaught exception File "lltolj.ml", line 262, characters 4-10: Assertion failed
+zenon fail
+proving../FOF/SYN338+1.p
+Zenon error: uncaught exception File "lltolj.ml", line 262, characters 4-10: Assertion failed
+zenon fail
+proving../FOF/SYN339+1.p
+Zenon error: uncaught exception File "lltolj.ml", line 262, characters 4-10: Assertion failed
+zenon fail
+proving../FOF/SYN340+1.p
+./script.sh : ligne 2 :  4335 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN341+1.p
+Zenon error: uncaught exception File "lltolj.ml", line 262, characters 4-10: Assertion failed
+zenon fail
+proving../FOF/SYN343+1.p
+Zenon error: uncaught exception File "lltolj.ml", line 262, characters 4-10: Assertion failed
+zenon fail
+proving../FOF/SYN345+1.p
+Zenon error: uncaught exception File "lltolj.ml", line 262, characters 4-10: Assertion failed
+zenon fail
+proving../FOF/SYN346+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN347+1.p
+Zenon error: uncaught exception File "lltolj.ml", line 262, characters 4-10: Assertion failed
+zenon fail
+proving../FOF/SYN349+1.p
+Zenon error: uncaught exception File "lltolj.ml", line 262, characters 4-10: Assertion failed
+zenon fail
+proving../FOF/SYN350+1.p
+Zenon error: uncaught exception File "lltolj.ml", line 262, characters 4-10: Assertion failed
+zenon fail
+proving../FOF/SYN351+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN352+1.p
+./script.sh : ligne 2 :  4357 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN353+1.p
+./script.sh : ligne 2 :  4368 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN354+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN355+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN356+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN357+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN358+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN359+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN360+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN361+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN362+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN363+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN364+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN365+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN366+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN367+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN368+1.p
+Zenon error: uncaught exception File "lltolj.ml", line 262, characters 4-10: Assertion failed
+zenon fail
+proving../FOF/SYN369+1.p
+Zenon error: uncaught exception File "lltolj.ml", line 262, characters 4-10: Assertion failed
+zenon fail
+proving../FOF/SYN370+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN371+1.p
+Zenon error: uncaught exception File "lltolj.ml", line 262, characters 4-10: Assertion failed
+zenon fail
+proving../FOF/SYN372+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN373+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN374+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN375+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN376+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN377+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN378+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN379+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN380+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN381+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN382+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN383+1.p
+Zenon error: uncaught exception File "lltolj.ml", line 262, characters 4-10: Assertion failed
+zenon fail
+proving../FOF/SYN384+1.p
+Zenon error: uncaught exception File "lltolj.ml", line 262, characters 4-10: Assertion failed
+zenon fail
+proving../FOF/SYN385+1.p
+Zenon error: uncaught exception File "lltolj.ml", line 262, characters 4-10: Assertion failed
+zenon fail
+proving../FOF/SYN386+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN387+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN388+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN389+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN390+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN391+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN392+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN393+1.003.p
+./script.sh : ligne 2 :  4486 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN394+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN395+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN396+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN397+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN398+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN399+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN400+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN401+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN402+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN403+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN404+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN405+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN406+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN407+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN408+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN409+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN410+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN411+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN412+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN413+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN415+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN416+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN417+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN436+1.p
+./script.sh : ligne 2 :  4563 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN439+1.p
+./script.sh : ligne 2 :  4565 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN440+1.p
+./script.sh : ligne 2 :  4570 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN442+1.p
+./script.sh : ligne 2 :  4572 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN443+1.p
+./script.sh : ligne 2 :  4575 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN444+1.p
+./script.sh : ligne 2 :  4578 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN445+1.p
+./script.sh : ligne 2 :  4581 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN447+1.p
+./script.sh : ligne 2 :  4587 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN448+1.p
+./script.sh : ligne 2 :  4589 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN450+1.p
+./script.sh : ligne 2 :  4591 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN451+1.p
+./script.sh : ligne 2 :  4593 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN452+1.p
+./script.sh : ligne 2 :  4595 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN454+1.p
+./script.sh : ligne 2 :  4600 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN455+1.p
+./script.sh : ligne 2 :  4602 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN457+1.p
+./script.sh : ligne 2 :  4604 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN458+1.p
+./script.sh : ligne 2 :  4608 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN459+1.p
+./script.sh : ligne 2 :  4610 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN460+1.p
+./script.sh : ligne 2 :  4615 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN461+1.p
+./script.sh : ligne 2 :  4617 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN462+1.p
+./script.sh : ligne 2 :  4619 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN465+1.p
+./script.sh : ligne 2 :  4621 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN466+1.p
+./script.sh : ligne 2 :  4623 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN467+1.p
+./script.sh : ligne 2 :  4630 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN468+1.p
+./script.sh : ligne 2 :  4633 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN469+1.p
+./script.sh : ligne 2 :  4635 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN470+1.p
+./script.sh : ligne 2 :  4637 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN471+1.p
+./script.sh : ligne 2 :  4639 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN472+1.p
+./script.sh : ligne 2 :  4644 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN473+1.p
+./script.sh : ligne 2 :  4646 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN474+1.p
+./script.sh : ligne 2 :  4648 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN475+1.p
+./script.sh : ligne 2 :  4650 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN476+1.p
+./script.sh : ligne 2 :  4652 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN477+1.p
+./script.sh : ligne 2 :  4657 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN478+1.p
+./script.sh : ligne 2 :  4659 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN479+1.p
+./script.sh : ligne 2 :  4661 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN480+1.p
+./script.sh : ligne 2 :  4663 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN481+1.p
+./script.sh : ligne 2 :  4665 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN482+1.p
+./script.sh : ligne 2 :  4671 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN483+1.p
+./script.sh : ligne 2 :  4673 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN484+1.p
+./script.sh : ligne 2 :  4675 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN485+1.p
+./script.sh : ligne 2 :  4677 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN486+1.p
+./script.sh : ligne 2 :  4679 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN487+1.p
+./script.sh : ligne 2 :  4684 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN488+1.p
+./script.sh : ligne 2 :  4686 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN489+1.p
+./script.sh : ligne 2 :  4688 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN498+1.p
+./script.sh : ligne 2 :  4690 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN499+1.p
+./script.sh : ligne 2 :  4692 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN500+1.p
+./script.sh : ligne 2 :  4697 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN501+1.p
+./script.sh : ligne 2 :  4700 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN502+1.p
+./script.sh : ligne 2 :  4702 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN503+1.p
+./script.sh : ligne 2 :  4704 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN504+1.p
+./script.sh : ligne 2 :  4706 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN505+1.p
+./script.sh : ligne 2 :  4711 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN506+1.p
+./script.sh : ligne 2 :  4713 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN507+1.p
+./script.sh : ligne 2 :  4715 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN508+1.p
+./script.sh : ligne 2 :  4717 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN509+1.p
+./script.sh : ligne 2 :  4720 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN510+1.p
+./script.sh : ligne 2 :  4725 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN511+1.p
+./script.sh : ligne 2 :  4727 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN512+1.p
+./script.sh : ligne 2 :  4729 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN548+1.p
+./script.sh : ligne 2 :  4731 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN549+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN550+1.p
+./script.sh : ligne 2 :  4736 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN551+1.p
+Zenon error: exhausted search space without finding a proof
+zenon fail
+proving../FOF/SYN551+2.p
+./script.sh : ligne 2 :  4743 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN551+3.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN721+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN722+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN723+1.p
+./script.sh : ligne 2 :  4755 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN724+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN726+1.p
+Zenon error: uncaught exception Not_found
+zenon fail
+proving../FOF/SYN727+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN728+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN729+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN730+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN731+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN732+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN733+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN915+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN917+1.p
+Zenon error: uncaught exception File "lltolj.ml", line 262, characters 4-10: Assertion failed
+zenon fail
+proving../FOF/SYN918+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN919+1.p
+
+fail cut | (-. (A. ((x) (A. ((y) (A. ((z) (=> (r x y) (=> (r y z) (r x z)))))))))) | (-. (A. ((x) (A. ((y) (A. ((z) (=> (r x y) (=> (r y z) (-. (-. (r x z)))))))))))) |
+Zenon error: uncaught exception File "lltolj.ml", line 1707, characters 6-12: Assertion failed
+zenon fail
+proving../FOF/SYN920+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN921+1.p
+Zenon error: uncaught exception File "lltolj.ml", line 262, characters 4-10: Assertion failed
+zenon fail
+proving../FOF/SYN922+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN923+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN924+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN925+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN926+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN927+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN928+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN929+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN930+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN931+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN932+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN933+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN934+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN935+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN936+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN937+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN938+1.p
+Zenon error: uncaught exception File "lltolj.ml", line 262, characters 4-10: Assertion failed
+zenon fail
+proving../FOF/SYN939+1.p
+./script.sh : ligne 2 :  4851 Processus arrêté      ./limit.py ./zenon -q -p0 -odedukti -itptp test.p > test.dk
+zenon fail
+proving../FOF/SYN940+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN941+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN942+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN943+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN944+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN945+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN946+1.p
+Zenon error: uncaught exception File "lltolj.ml", line 262, characters 4-10: Assertion failed
+zenon fail
+proving../FOF/SYN947+1.p
+Zenon error: uncaught exception File "lltolj.ml", line 262, characters 4-10: Assertion failed
+zenon fail
+proving../FOF/SYN948+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN949+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN950+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN951+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN952+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN953+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN954+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN955+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN956+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN957+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN958+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN959+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN960+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN961+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN962+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN963+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN964+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN965+1.p
+Zenon error: uncaught exception File "lltolj.ml", line 262, characters 4-10: Assertion failed
+zenon fail
+proving../FOF/SYN966+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN967+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN968+1.p
+Zenon error: uncaught exception File "lltolj.ml", line 262, characters 4-10: Assertion failed
+zenon fail
+proving../FOF/SYN969+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN970+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN971+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN972+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN973+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN974+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN975+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN976+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN977+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN978+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN979+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN980+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN981+1.p
+Traceback (most recent call last):
+  File "./limit.py", line 7, in <module>
+    os.execvp(sys.argv[1], sys.argv[1:])
+  File "/usr/lib/python2.7/os.py", line 344, in execvp
+    _execvpe(file, args)
+  File "/usr/lib/python2.7/os.py", line 380, in _execvpe
+    func(fullname, *argrest)
+OSError: [Errno 2] No such file or directory
+dedukti fail
+proving../FOF/SYN986+1.000.p
+Zenon error: file Axioms/SYN002+0.ax not found in include path
+zenon fail
+proving../FOF/SYN986+1.001.p
+Zenon error: file Axioms/SYN002+0.ax not found in include path
+zenon fail
+proving../FOF/SYN986+1.002.p
+Zenon error: file Axioms/SYN002+0.ax not found in include path
+zenon fail
+proving../FOF/SYN986+1.003.p
+Zenon error: file Axioms/SYN002+0.ax not found in include path
+zenon fail
+proving../FOF/SYN986+1.004.p
+Zenon error: file Axioms/SYN002+0.ax not found in include path
+zenon fail
+proving../FOF/SYN986+1.005.p
+Zenon error: file Axioms/SYN002+0.ax not found in include path
+zenon fail
+proving../FOF/SYN986+1.006.p
+Zenon error: file Axioms/SYN002+0.ax not found in include path
+zenon fail

@@ -1,0 +1,7 @@
+*.aux
+*.log
+*.toc
+reference.pdf
+zenon-logo.png
+zenon-logo-small.png
+.svn
